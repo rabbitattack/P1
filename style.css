@@ -12,4 +12,7 @@
     background-size: cover;
     position: relative;
   }
+
+.page-header{
+    height: 50px;
 }
