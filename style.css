@@ -4,10 +4,12 @@
 #mainDiv {
     font-style: italic;
 }
-.form {
-    text-align: center;
-    width: 250px;
-    height: 175px;
-    padding: 15px;
-    font-style: italic;
+
+.image{
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
 }
