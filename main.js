@@ -12,4 +12,3 @@ function myFunction1() {
 function myFunction2() {
     window.open("https://github.com/rabbitattack/P2")
 }
-
